@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary folders
+__pycache__/
+*.log
