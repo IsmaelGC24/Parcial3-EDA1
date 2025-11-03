@@ -32,12 +32,17 @@ It also measures execution time to compare both algorithms in terms of efficienc
 
 ## Compile
 ```bash
+
 g++ src/*.cpp -o parcial3
+```
 
 ## Run
-./parcial3
+```bash
 
-The program will display a menu to select a test case:
+./parcial3
+```
+
+## The program will display a menu to select a test case:
 
 1. No ponderado (BFS)
 2. Ponderado (Dijkstra)
@@ -49,20 +54,19 @@ Opcion: _
 
 The corresponding results and time will be saved automatically in /results/.
 
-# Documentation
+## Documentation
 
-The documentation (report/Informe.pdf) includes:
+The documentation (report/Documentacion.Parcial3.pdf) includes:
 
-Problem description and objectives
+- Problem description and objectives
 
-BFS and Dijkstra pseudocode
+- BFS and Dijkstra pseudocode
 
-Comparison of complexities
+- Comparison of complexities
 
-Experimental results table
+- Experimental results in console
 
-Conclusions on algorithm selection
+- Conclusions on algorithm selection
 
-Explanation of tiempos.csv format
+- Explanation of tiempos.csv format
 
-Acknowledgment of AI-assisted development
